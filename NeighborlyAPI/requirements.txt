@@ -1,0 +1,9 @@
+azure-functions==1.2.1
+azure-cosmos
+azure-cli-core
+bson
+pymongo
+Flask==1.1.2
+requests
+Jinja2==2.11.2
+itsdangerous==1.1.0

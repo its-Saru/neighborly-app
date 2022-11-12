@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+azure-functions = "*"
+certifi = "*"
+chardet = "*"
+click = "*"
+dominate = "*"
+flask = "==2.1.0"
+flask-bootstrap = "*"
+idna = "*"
+itsdangerous = "==2.0.1"
+jinja2 = "<3.1.0"
+markupsafe = "*"
+requests = "*"
+urllib3 = "*"
+visitor = "*"
+werkzeug = "==2.0.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
