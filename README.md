@@ -10,7 +10,7 @@ The application makes direct requests to the back-end API endpoints. These are e
 
 You can see an example of the deployed app below.
 
-![Deployed App](images/final-app.png)
+![Deployed App](https://media.discordapp.net/attachments/396202101123842062/1057771920394821662/final-app.png?width=1410&height=702)
 
 ## Dependencies
 
